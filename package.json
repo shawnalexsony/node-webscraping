@@ -1,0 +1,16 @@
+{
+  "name": "node-webscraping",
+  "version": "1.0.0",
+  "description": "web scraping using node,js",
+  "main": "webscrape.js",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shawn",
+  "license": "ISC"
+}
